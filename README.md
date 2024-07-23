@@ -1,4 +1,4 @@
-I will write my notes as I go along this challenge.
+I will write my notes as I go along this challenge. 🦁😊
 _______________________________
 
 # CTF Writeup Repository 🚩
