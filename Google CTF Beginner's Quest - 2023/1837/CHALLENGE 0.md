@@ -1,3 +1,7 @@
+Had a bit of trouble with some of the gibberish of the flag 
+FLAG{TR4N54TL4NTIC}
+<- L was not showing.
+_____________________________________
 ## Challenge 🧩
 
 Operator, could you decode this telegram for us into plain English? We recently got this telegram from across the ocean in the United States and transcribed what we heard from the telegraph sounder, but we don't know what it means.
